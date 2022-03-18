@@ -14,7 +14,7 @@ This is the backend server of a website selling laptops using spring boot framew
 
 <p align="center">
 <img width="304" src="https://uphinh.vn/images/2022/03/18/9c139951bf86784e11461a65f4b74f3f.png" alt="database.png"/>
-<p align="center" ><i> Homepage. </i></p>
+<p align="center" ><i> Database. </i></p>
 
 ## APPLICATION SCREENSHOTS
 
