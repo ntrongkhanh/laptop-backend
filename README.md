@@ -13,17 +13,17 @@ This is the backend server of a website selling laptops using spring boot framew
 ## DATABASE
 
 <p align="center">
-<img width="304" src="https://uphinh.vn/images/2022/03/18/9c139951bf86784e11461a65f4b74f3f.png" alt="database.png"/>
+<img width="304" src="https://uphinh.vn/images/2022/03/18/9c139951bf86784e11461a65f4b74f3f.png"/>
 <p align="center" ><i> Database. </i></p>
 
 ## APPLICATION SCREENSHOTS
 
 <p align="center">
-<img width="304" src="https://uphinh.vn/images/2022/03/18/effe3162da7d22012491be8cdb9d33f4.png" alt="home.png"/>
+<img width="304" src="https://uphinh.vn/images/2022/03/18/effe3162da7d22012491be8cdb9d33f4.png"/>
 <p align="center" ><i> Homepage. </i></p>
 
 <p align="center">
-<img width="304" src="https://uphinh.vn/images/2022/03/18/cfb57da8c49b4ddd87b35ff0a84f0a49.png" alt="laptop.png"/>
+<img width="304" src="https://uphinh.vn/images/2022/03/18/cfb57da8c49b4ddd87b35ff0a84f0a49.png"/>
 <p align="center" ><i> Laptop list. </i></p>
 
 <p align="center">
